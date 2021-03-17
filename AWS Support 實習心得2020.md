@@ -1,5 +1,5 @@
 ---
-tags: AWS, Note, Experience
+tags: AWS, Note, Experience, Complete
 ---
 # AWS Support 實習心得 (2020)
 ## 應徵過程
