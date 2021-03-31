@@ -218,7 +218,7 @@ Are you sure you would like to delete test3? [y/N] y
     ```
     /Users/wilson/Library/Application Support/Google/Chrome/NativeMessagingHosts/com.github.browserpass.native.json -> /usr/local/opt/browserpass/lib/browserpass/hosts/chromium/com.github.browserpass.native.json
     ```
-    > 小記：由於我換成使用 sidekick，另一個基於 chromium 的瀏覽器，沒有找到 make 符合的子指令，但只要複製該 symlink 即可到 sidekick 下的相同目錄位置就可以執行了
+    > 小記：由於我換成使用 sidekick，另一個基於 chromium 的瀏覽器，沒有找到 make 符合的子指令，但只要複製該 symlink 到 sidekick 下的相同目錄位置就可以執行了
 3. [安裝 plugin](https://chrome.google.com/webstore/detail/browserpass/naepdomgkenhinolocfifgehidddafch)
 4. 為了讓 `browserpass` 可以和 gpg 溝通，首先需要修改/新增 `~/.gnupg/gpg-agent.conf` 加入下列內容：
     ```
